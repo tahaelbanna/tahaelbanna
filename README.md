@@ -24,7 +24,7 @@
 <a href="https://codeforces.com/profile/Taha.Elbanna">
   <img
     height="50"
-    src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"
+    src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=256"
     alt="Codeforces"
   />
 </a>
