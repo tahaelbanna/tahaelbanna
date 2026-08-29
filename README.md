@@ -2,13 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Taha Elbanna
-</h1>
-
-<h2 align="center">
-  Software Enginner
-</h2>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Taha Elbanna - Software Engineer">
+</p>
 
 <h3 align="center">
   Let's Connect and have a Chat!💬
