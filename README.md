@@ -15,16 +15,24 @@
 </h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/taha-elbanna-18295a322/)">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<a href="https://www.linkedin.com/in/taha-elbanna-18295a322/">
+  <img
+    height="50"
+    src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"
+  />
 </a>
-<a href="[https://thepiyushmalhotra.medium.com/](https://codeforces.com/profile/Taha.Elbanna)">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png](https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=512)"/>
+<a href="https://codeforces.com/profile/Taha.Elbanna">
+  <img
+    height="50"
+    src="[https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=512](https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3031869.png?f=webp&w=512)"
+  />
 </a>
-<a href="[https://twitter.com/Ipiyushmalhotra](https://x.com/TahaElbanna8)">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+<a href="https://x.com/TahaElbanna8">
+  <img
+    height="50"
+    src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"
+  />
 </a>
-</p>
 
 ---
 
