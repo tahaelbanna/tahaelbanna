@@ -1,1 +1,76 @@
+<svg
+  width="100%"
+  height="280"
+  viewBox="0 0 1000 280"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
+  <!-- Background -->
+  <rect width="1000" height="280" fill="#0d1117"/>
+
+  <!-- Taha Elbanna -->
+  <text
+    x="500"
+    y="100"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="42"
+    font-weight="bold"
+    fill="#f0f6fc"
+  >
+    Taha Elbanna
+
+    <!-- Enter from LEFT -->
+    <animate
+      attributeName="x"
+      from="-400"
+      to="500"
+      dur="1.5s"
+      begin="0s"
+      fill="freeze"
+    />
+  </text>
+
+  <!-- Separator -->
+  <line
+    x1="50"
+    y1="130"
+    x2="950"
+    y2="130"
+    stroke="#30363d"
+    stroke-width="1"
+  />
+
+  <!-- Software Engineer -->
+  <text
+    x="500"
+    y="195"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="30"
+    fill="#f0f6fc"
+  >
+    Software Engineer
+
+    <!-- Enter from RIGHT -->
+    <animate
+      attributeName="x"
+      from="1400"
+      to="500"
+      dur="1.5s"
+      begin="0.3s"
+      fill="freeze"
+    />
+  </text>
+
+  <!-- Separator -->
+  <line
+    x1="50"
+    y1="225"
+    x2="950"
+    y2="225"
+    stroke="#30363d"
+    stroke-width="1"
+  />
+
+</svg>
